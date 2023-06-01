@@ -5,6 +5,5 @@ scikit-learn
 tensorflow
 matplotlib
 flask
-os
 fastapi
 flask-restful
